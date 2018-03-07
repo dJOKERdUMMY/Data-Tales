@@ -1,6 +1,7 @@
 # Data Tales - Beyond Infinity
-<a href="https://datahack.analyticsvidhya.com/contest/data-tales-beyond-infinity-great-lakes-institute-o/">Analytics Vidhya online hackathon (January 2018)</a>
-<a href="https://datahack.analyticsvidhya.com/contest/data-tales-beyond-infinity-great-lakes-institute-o/pvt_lb">Final Leaderboards (Team:dJOKERdUMMY)</a>
+<a href="https://datahack.analyticsvidhya.com/contest/data-tales-beyond-infinity-great-lakes-institute-o/">Analytics Vidhya online hackathon (January 2018)</a><br>
+<a href="https://datahack.analyticsvidhya.com/contest/data-tales-beyond-infinity-great-lakes-institute-o/pvt_lb">Final Leaderboards (Team:dJOKERdUMMY)</a><br>
+<a href="https://drive.google.com/open?id=1hCvTfZe5UwoOg-1P7ga4ZUcSFGUxTurj">Presentation Document explaining the steps and Data Analysis</a>
 
 **Please go through the Readme properly.**
 - Run the main.py file as "python main.py" in the "src" folder. The output is show on the console. There are various warnings which can be ignored
